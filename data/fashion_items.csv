@@ -1,0 +1,102 @@
+item_id,title,tags,category
+0,Boho Summer Maxi Dress,"['boho', 'dress', 'summer']",dresses
+1,Minimalist Linen Blouse,"['minimalist', 'blouse', 'neutrals']",tops
+2,Vintage Denim Jacket,"['vintage', 'jacket', 'denim']",outerwear
+3,Cozy Knit Sweater,"['cozy', 'sweater', 'fall']",tops
+4,Streetwear Graphic Hoodie,"['streetwear', 'hoodie', 'urban']",outerwear
+5,Sustainable Yoga Set,"['sustainable', 'athleisure', 'yoga']",activewear
+6,Classic Black Blazer,"['classic', 'blazer', 'formal']",outerwear
+7,Colorblock Sneakers,"['sneakers', 'colorful', 'streetwear']",footwear
+8,Ruffle Mini Skirt,"['feminine', 'skirt', 'summer']",bottoms
+9,Utility Cargo Pants,"['utility', 'cargo', 'functional']",bottoms
+10,Elegant Evening Gown,"['elegant', 'gown', 'formal']",dresses
+11,Casual Chambray Shirt,"['casual', 'shirt', 'denim']",tops
+12,Plaid Flannel Shirt,"['plaid', 'flannel', 'cozy']",tops
+13,High-Waisted Wide Leg Trousers,"['high-waisted', 'trousers', 'chic']",bottoms
+14,Retro High-Top Sneakers,"['retro', 'sneakers', 'casual']",footwear
+15,Floral Print Maxi Skirt,"['floral', 'maxi', 'summer']",bottoms
+16,Athletic Running Shorts,"['athletic', 'running', 'activewear']",activewear
+17,Chic Leather Handbag,"['chic', 'handbag', 'leather']",accessories
+18,Woven Straw Tote Bag,"['woven', 'tote', 'summer']",accessories
+19,Classic White Sneakers,"['classic', 'sneakers', 'casual']",footwear
+20,Graphic Tee with Vintage Print,"['graphic', 'tee', 'vintage']",tops
+21,Tailored Wool Coat,"['tailored', 'wool', 'coat']",outerwear
+22,Sporty Windbreaker Jacket,"['sporty', 'windbreaker', 'activewear']",outerwear
+23,Plaid A-Line Skirt,"['plaid', 'A-line', 'skirt']",bottoms
+24,Chunky Knit Cardigan,"['chunky', 'knit', 'cardigan']",outerwear
+25,Casual Slip-On Shoes,"['casual', 'slip-on', 'footwear']",footwear
+26,Elegant Silk Scarf,"['elegant', 'silk', 'scarf']",accessories
+27,Denim Overalls,"['denim', 'overalls', 'casual']",bottoms
+28,Sporty Cap with Logo,"['sporty', 'cap', 'logo']",accessories
+29,Vintage-Inspired Mary Jane Flats,"['vintage', 'flats', 'casual']",footwear
+30,Bohemian Beaded Necklace,"['bohemian', 'necklace', 'beaded']",accessories
+31,Tailored Chinos,"['tailored', 'chinos', 'smart']",bottoms
+32,Casual Canvas Backpack,"['casual', 'backpack', 'canvas']",accessories
+33,Sporty Running Shoes,"['sporty', 'running', 'shoes']",footwear
+34,Elegant Clutch Bag,"['elegant', 'clutch', 'bag']",accessories
+35,Graphic Hoodie with Bold Print,"['graphic', 'hoodie', 'bold']",outerwear
+36,Floral Print Wrap Dress,"['floral', 'wrap dress', 'summer']",dresses
+37,Casual Polo Shirt,"['casual', 'polo shirt', 'smart']",tops
+38,Leather Ankle Boots,"['leather', 'ankle boots', 'footwear']",footwear
+39,Sporty Track Pants,"['sporty', 'track pants', 'activewear']",bottoms
+40,Vintage-Inspired Sunglasses,"['vintage', 'sunglasses', 'accessories']",accessories
+41,Casual Graphic Tank Top,"['casual', 'graphic', 'tank top']",tops
+42,Tailored Suit Jacket,"['tailored', 'suit jacket', 'formal']",outerwear
+43,Sporty Baseball Cap,"['sporty', 'baseball cap', 'casual']",accessories
+44,Chunky Platform Sneakers,"['chunky', 'platform', 'sneakers']",footwear
+45,Elegant Lace Blouse,"['elegant', 'lace', 'blouse']",tops
+46,Casual Denim Shorts,"['casual', 'denim', 'shorts']",bottoms
+47,Sporty Zip-Up Hoodie,"['sporty', 'zip-up', 'hoodie']",outerwear
+48,Floral Print Kimono Jacket,"['floral', 'kimono', 'jacket']",outerwear
+49,Casual Slip-On Sneakers,"['casual', 'slip-on', 'sneakers']",footwear
+50,Elegant Pearl Earrings,"['elegant', 'pearl', 'earrings']",accessories
+51,Sporty Athletic Tank Top,"['sporty', 'athletic', 'tank top']",tops
+52,Casual Hoodie with Logo,"['casual', 'hoodie', 'logo']",outerwear
+53,Tailored Dress Pants,"['tailored', 'dress pants', 'formal']",bottoms
+54,Vintage-Inspired Leather Satchel,"['vintage', 'leather', 'satchel']",accessories
+55,Casual Striped T-Shirt,"['casual', 'striped', 't-shirt']",tops
+56,Sporty Running Jacket,"['sporty', 'running jacket', 'activewear']",outerwear
+57,Elegant Silk Blouse,"['elegant', 'silk', 'blouse']",tops
+58,Casual Canvas Sneakers,"['casual', 'canvas', 'sneakers']",footwear
+59,Tailored Wool Trousers,"['tailored', 'wool', 'trousers']",bottoms
+60,Sporty Athletic Shorts,"['sporty', 'athletic', 'shorts']",activewear
+61,Vintage-Inspired Leather Boots,"['vintage', 'leather', 'boots']",footwear
+62,Casual Plaid Shirt Dress,"['casual', 'plaid', 'shirt dress']",dresses
+63,Elegant Statement Necklace,"['elegant', 'statement necklace', 'accessories']",accessories
+64,Sporty Athletic Leggings,"['sporty', 'athletic', 'leggings']",activewear
+65,Casual Denim Jacket,"['casual', 'denim', 'jacket']",outerwear
+66,Tailored Blazer with Pockets,"['tailored', 'blazer', 'pockets']",outerwear
+67,Sporty Athletic Shoes with Cushioning,"['sporty', 'athletic', 'shoes']",footwear
+68,Elegant Silk Scarf with Floral Print,"['elegant', 'silk scarf', 'floral']",accessories
+69,Casual Graphic Hoodie with Logo,"['casual', 'graphic hoodie', 'logo']",outerwear
+70,Tailored Suit Pants,"['tailored', 'suit pants', 'formal']",bottoms
+71,Sporty Athletic Jacket with Reflective Details,"['sporty', 'athletic jacket', 'reflective']",outerwear
+72,Vintage-Inspired Canvas Sneakers,"['vintage', 'canvas sneakers', 'casual']",footwear
+73,Casual Striped Hoodie,"['casual', 'striped hoodie', 'comfortable']",outerwear
+74,Elegant Lace Dress with Sleeves,"['elegant', 'lace dress', 'sleeves']",dresses
+75,Sporty Athletic Cap with Ventilation,"['sporty', 'athletic cap', 'ventilation']",accessories
+76,Casual Denim Overalls with Pockets,"['casual', 'denim overalls', 'pockets']",bottoms
+77,Tailored Wool Blazer with Lining,"['tailored', 'wool blazer', 'lining']",outerwear
+78,Sporty Athletic Skirt with Built-in Shorts,"['sporty', 'athletic skirt', 'built-in shorts']",bottoms
+79,Vintage-Inspired Leather Backpack with Buckles,"['vintage', 'leather backpack', 'buckles']",accessories
+80,Casual Graphic T-Shirt with Slogan,"['casual', 'graphic t-shirt', 'slogan']",tops
+81,Retro Glasses with Pink Tinted Lenses,"['retro', 'glasses', 'pink tinted']",eyewear
+82,Sporty Athletic Socks with Arch Support,"['sporty', 'athletic socks', 'arch support']",accessories
+83,Elegant Silk Wrap Dress,"['elegant', 'silk wrap dress', 'summer']",dresses
+84,Casual Plaid Button-Up Shirt,"['casual', 'plaid', 'button-up']",mens tops
+85,Tailored Wool Coat with Belt,"['tailored', 'wool coat', 'belt']",outerwear
+86,Sporty Athletic Shorts with Pockets,"['sporty', 'athletic shorts', 'pockets']",activewear
+87,Vintage-Inspired Leather Satchel with Embossed Logo,"['vintage', 'leather satchel', 'embossed logo']",accessories
+88,Casual Striped T-Shirt Dress,"['casual', 'striped', 't-shirt dress']",dresses
+89,Elegant Lace Midi Skirt,"['elegant', 'lace', 'midi skirt']",bottoms
+90,Sporty Athletic Jacket with Mesh Panels,"['sporty', 'athletic jacket', 'mesh panels']",outerwear
+91,Casual Denim Skirt with Distressed Details,"['casual', 'denim skirt', 'distressed']",bottoms
+92,Tailored Suit Vest with Pockets,"['tailored', 'suit vest', 'pockets']",outerwear
+93,Sporty Athletic Shoes with Breathable Mesh,"['sporty', 'athletic shoes', 'breathable mesh']",footwear
+94,Vintage-Inspired Canvas Tote Bag with Floral Print,"['vintage', 'canvas tote bag', 'floral print']",accessories
+95,Casual Graphic Hoodie with Colorful Design,"['casual', 'graphic hoodie', 'colorful design']",outerwear
+96,Elegant Silk Blouse with Ruffle Details,"['elegant', 'silk blouse', 'ruffle details']",tops
+97,Sporty Athletic Leggings with High Waist,"['sporty', 'athletic leggings', 'high waist']",activewear
+98,Casual Plaid Flannel Shirt with Pockets,"['casual', 'plaid flannel shirt', 'pockets']",tops
+99,Tailored Wool Trousers with Cuffed Hem,"['tailored', 'wool trousers', 'cuffed hem']",bottoms
+100,Sporty Athletic Cap with Reflective Logo,"['sporty', 'athletic cap', 'reflective logo']",hats

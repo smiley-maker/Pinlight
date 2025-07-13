@@ -62,7 +62,8 @@ demo = gr.Interface(
         gr.Dataframe(label="Recommended Items"),
     ],
     title="🎽 Pinlight Fashion Recommender",
-    description="Select a user to see their interests, liked pins, and new recommendations using a hybrid filtering model."
+    description="Select a user to see their interests, liked pins, and new recommendations using a hybrid filtering model.",
+    theme='soft'
 )
 
 if __name__ == "__main__":

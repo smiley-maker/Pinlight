@@ -19,6 +19,8 @@ A live **Gradio demo** allows users to:
 * Explore top‑N recommendations
 * Adjust the content/collaborative balance (`alpha`)
 
+<img src="./images/interface_example.png" alt="Example of Gradio Interface" />
+
 ---
 
 ## Repository Structure
